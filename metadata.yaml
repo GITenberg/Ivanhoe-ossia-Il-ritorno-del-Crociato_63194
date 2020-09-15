@@ -1,0 +1,41 @@
+_repo: Ivanhoe-ossia-Il-ritorno-del-Crociato_63194
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hayez, Francesco
+    gutenberg_agent_id: '52323'
+    url: http://www.gutenberg.org/2009/agents/52323
+  translator:
+    agent_name: Barbieri, Gaetano
+    birthdate: 1767
+    deathdate: 1853
+    gutenberg_agent_id: '42224'
+    url: http://www.gutenberg.org/2009/agents/42224
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Malagrowther, Malachi
+    - Scott, Sir Walter
+    - Templeton, Laurence
+    - Cleishbotham, Jedediah
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: https://en.wikipedia.org/wiki/Walter_Scott
+description: ''
+gutenberg_issued: '2020-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63194'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Ivanhoe
+
+  ossia Il ritorno del Crociato'
+url: http://www.gutenberg.org/ebooks/63194
